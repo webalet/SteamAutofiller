@@ -1,4 +1,4 @@
-# Steame otomatik bilgileri dolduran program.
+# Steam otomatik bilgileri dolduran program.
 Bu program, kullanıcıların kredi kartı bilgilerini toplamalarına yardımcı olan bir Python programıdır. Program, kullanıcının bilgisayarındaki panoyu dinler ve panoya kopyalanan herhangi bir metindeki kredi kartı bilgilerini (16 haneli kart numarası, son kullanma tarihi, güvenlik kodu vb.) otomatik olarak algılar ve bir müşteri formuna yazdırır.
 
 ## Nasıl Kullanılır
